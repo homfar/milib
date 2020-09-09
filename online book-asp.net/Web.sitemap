@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode  title="خانه"  description="This is home page">
+    <siteMapNode url="Default.aspx" title="خانه" description="Home" ></siteMapNode>
+    <siteMapNode url="List.aspx" title="ليست موضوعات" description="List" ></siteMapNode>
+    <siteMapNode url="Search.aspx" title="جستجوي كتاب" description="Search" ></siteMapNode>
+    <siteMapNode title="مديريت سايت" description="Manage" >
+      <siteMapNode url="Manager.aspx" title="مديريت اعضاء" description="Manager" ></siteMapNode>
+      <siteMapNode url="AddG.aspx" title="افزودن قفسه جديد" description="AddGroup" ></siteMapNode>
+      <siteMapNode url="AddB.aspx" title="افزودن كتاب جديد" description="AddBook" ></siteMapNode>
+    </siteMapNode>
+    <siteMapNode url="Signup.aspx" title="ثبت نام عضو جديد" description="Signup" ></siteMapNode>
+    <siteMapNode url="Login.aspx" title="ورود اعضاء" description="Login" ></siteMapNode>
+    <siteMapNode url="About.aspx" title="درباره سايت" description="About" ></siteMapNode>
+  </siteMapNode>
+</siteMap>
